@@ -7,7 +7,7 @@ Unlock your Windows session with your nearby iPhone or Android phone. This repos
 
 ## Download
 
-Get the latest files from [Releases](https://github.com/CodeFishLab/unlock-windows-with-iphone/releases/latest):
+Get the latest files from [Releases](https://github.com/CodeFishLab/unlock-windows-with-phone/releases/latest):
 
 - `UnlockWithIPhone_<version>_x64_setup.exe`: the Windows installer.
 - `PhoneUnlock_<version>.apk`: the Android app. The QR code under **About → Android app** on Windows opens the same page.
@@ -41,4 +41,4 @@ Open Windows **Settings → Apps**, find *Phone Unlock* and select **Uninstall**
 
 ---
 
-Based on [dennis6481/unlock-windows-with-iphone](https://github.com/dennis6481/unlock-windows-with-iphone). Experimental project; use at your own risk. See the [MIT License](LICENSE.md).
+Based on [dennis6481/unlock-windows-with-iphone](https://github.com/dennis6481/unlock-windows-with-iphone), which unlocks Windows with an iPhone. This project adds Android support: the Phone Unlock app answers each unlock request under the policy you choose, and can also lock or shut down the PC. Experimental project; use at your own risk. See the [MIT License](LICENSE.md).
