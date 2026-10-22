@@ -9,7 +9,7 @@ Unlock your Windows session with your nearby iPhone or Android phone. This repos
 
 Get the latest files from [Releases](https://github.com/CodeFishLab/unlock-windows-with-phone/releases/latest):
 
-- `UnlockWithIPhone_<version>_x64_setup.exe`: the Windows installer.
+- `PhoneUnlock_<version>_x64_setup.exe`: the Windows installer.
 - `PhoneUnlock_<version>_android.apk`: the Android app. The QR code under **About → Android app** on Windows opens the same page.
 
 ## System requirements

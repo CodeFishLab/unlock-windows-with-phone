@@ -9,7 +9,7 @@
 
 在 [Releases](https://github.com/CodeFishLab/unlock-windows-with-phone/releases/latest) 下载最新文件：
 
-- `UnlockWithIPhone_<版本>_x64_setup.exe`：Windows 安装程序。
+- `PhoneUnlock_<版本>_x64_setup.exe`：Windows 安装程序。
 - `PhoneUnlock_<版本>_android.apk`：Android App。Windows 中 **About → Android app** 的二维码也会打开这个页面。
 
 ## 系统要求
