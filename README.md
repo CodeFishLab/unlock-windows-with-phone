@@ -32,7 +32,7 @@ Get the latest files from [Releases](https://github.com/CodeFishLab/unlock-windo
 ## Set up the Android app
 
 1. Install the APK.
-2. Allow **Nearby devices** and notifications, and set battery use to **Unrestricted**. On vivo, also allow auto-start and background activity.
+2. Allow **Nearby devices** and notifications, and set battery use to **Unrestricted**, also allow auto-start and background activity.
 3. Start the service in the app, then pair and bind the phone on Windows as above.
 
 ## Uninstall
