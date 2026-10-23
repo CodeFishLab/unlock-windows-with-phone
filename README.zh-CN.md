@@ -41,4 +41,6 @@
 
 ---
 
-基于 [dennis6481/unlock-windows-with-iphone](https://github.com/dennis6481/unlock-windows-with-iphone)，原项目只支持用 iPhone 解锁 Windows。本项目增加了 Android 支持：安装 Phone Unlock App 后，手机会按你选择的解锁策略响应每次解锁请求，还能锁定或关闭电脑。实验性项目，使用风险自负。参见 [MIT 许可证](LICENSE.md)。
+基于 [dennis6481/unlock-windows-with-iphone](https://github.com/dennis6481/unlock-windows-with-iphone)，
+本项目增加了 Android 支持：安装 Phone Unlock App 后，手机会按你选择的解锁策略响应每次解锁请求，还能锁定或关闭电脑。
+实验性项目，使用风险自负。参见 [MIT 许可证](LICENSE.md)。
