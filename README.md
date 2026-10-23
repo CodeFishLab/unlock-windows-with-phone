@@ -41,4 +41,4 @@ Open Windows **Settings → Apps**, find *Phone Unlock* and select **Uninstall**
 
 ---
 
-Based on [dennis6481/unlock-windows-with-iphone](https://github.com/dennis6481/unlock-windows-with-iphone), which unlocks Windows with an iPhone. This project adds Android support: the Phone Unlock app answers each unlock request under the policy you choose, and can also lock or shut down the PC. Experimental project; use at your own risk. See the [MIT License](LICENSE.md).
+Based on [dennis6481/unlock-windows-with-iphone](https://github.com/dennis6481/unlock-windows-with-iphone). This project adds Android support: the Phone Unlock app answers each unlock request under the policy you choose, and can also lock or shut down the PC. Experimental project; use at your own risk. See the [MIT License](LICENSE.md).
